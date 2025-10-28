@@ -212,28 +212,6 @@ Blockchain           ███████████████████�
 ║            Interface Segregation, Dependency Inversion)            ║
 ║     → The five pillars of object enlightenment.                   ║
 ║                                                                    ║
-║  5. CAP Theorem                                                   ║
-║     → Consistency, Availability, Partition Tolerance              ║
-║     → Choose wisely. You can only have two.                       ║
-║                                                                    ║
-║  6. The Zen of Python (applies to all languages)                  ║
-║     → Beautiful is better than ugly                               ║
-║     → Explicit is better than implicit                            ║
-║     → Simple is better than complex                               ║
-║     → Readability counts                                          ║
-║                                                                    ║
-║  7. Test-Driven Development                                       ║
-║     → Tests aren't afterthoughts. They're prophecies.             ║
-║                                                                    ║
-║  8. Continuous Integration / Continuous Deployment                ║
-║     → Ship fast, break nothing, iterate forever.                  ║
-║                                                                    ║
-║  9. Microservices Wisdom                                          ║
-║     → Loose coupling, high cohesion, independent deployment       ║
-║                                                                    ║
-║  10. Security by Design                                           ║
-║      → Never trust input. Always validate. Encrypt everything.    ║
-║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
