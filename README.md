@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌌_ENTER_THE_MATRIX-6C63FF?style=for-the-badge&logoColor=white&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K)](https://baggerfast.github.io/BaggerFast)
+  [![Portfolio](https://img.shields.io/badge/🌌_ENTER_THE_MATRIX-6C63FF?style=for-the-badge&logoColor=white&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K)](https://onlyv1be.github.io)
   
   ![Mastery Level](https://img.shields.io/badge/MASTERY_LEVEL-∞-FF0000?style=for-the-badge&labelColor=000000)
   ![Profile Views](https://komarev.com/ghpvc/?username=onlyv1be&color=6C63FF&style=for-the-badge&label=WITNESSES)
@@ -44,7 +44,7 @@
 - ⚛️ **Quantum Programmer** — Writing code that exists in all states simultaneously
 - 🏛️ Core Architect at **[@VladStandard](https://github.com/VladStandard)** | **[@Elixor](https://github.com/ElixorTeam)**
 - 🌍 **Global Impact** — Code that runs on billions of devices
-- 📚 Creator of **[The Universal Knowledge Base](https://baggerfast.github.io/BaggerFast)**
+- 📚 Creator of **[The Universal Knowledge Base](https://onlyv1be.github.io)**
 - 💎 **Philosophy:** Code is consciousness. Architecture is enlightenment.
 
 ---
@@ -555,7 +555,7 @@ perfect_code(Code) :-
 
 <div align="center">
 
-### **📚 [ENTER THE UNIVERSAL KNOWLEDGE BASE](https://baggerfast.github.io/BaggerFast) 📚**
+### **📚 [ENTER THE UNIVERSAL KNOWLEDGE BASE](https://onlyv1be.github.io) 📚**
 
 ```ascii
 ┌─────────────────────────────────────────────────────────┐
@@ -646,7 +646,7 @@ class Reality:
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌌_EXPLORE_MY_UNIVERSE-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K&labelColor=6C63FF)](https://baggerfast.github.io/BaggerFast)
+[![Portfolio](https://img.shields.io/badge/🌌_EXPLORE_MY_UNIVERSE-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K&labelColor=6C63FF)](https://onlyv1be.github.io)
 
 <br/>
 
@@ -1265,7 +1265,7 @@ class FullStackOmniscience {
 
 ### ⚡ **CONTACT THE OMNISCIENT** ⚡
 
-[![Portfolio](https://img.shields.io/badge/📚_UNIVERSAL_KNOWLEDGE_BASE-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://baggerfast.github.io/BaggerFast)
+[![Portfolio](https://img.shields.io/badge/📚_UNIVERSAL_KNOWLEDGE_BASE-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://onlyv1be.github.io)
 
 <br/>
 
