@@ -25,11 +25,11 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║  "I don't write code. I sculpt digital consciousness."               ║
+║  "I don't write code. I sculpt digital consciousness."                ║
 ║                                                                       ║
 ║  "Every technology is a solved problem waiting for my implementation" ║
 ║                                                                       ║
-║  "100% mastery isn't the ceiling. It's the foundation."              ║
+║  "100% mastery isn't the ceiling. It's the foundation."               ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
