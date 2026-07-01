@@ -9,8 +9,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/SENIOR-DEVELOPER-FF174D?style=for-the-badge" alt="Senior Developer" />
-  <img src="https://komarev.com/ghpvc/?username=onlyv1be&color=FF174D&style=for-the-badge&label=VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/FULLSTACK-UNIVERSAL-6C63FF?style=for-the-badge" alt="Fullstack Developer" />
+  <img src="https://komarev.com/ghpvc/?username=onlyv1be&color=6C63FF&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/FULLSTACK-UNIVERSAL-FF174D?style=for-the-badge" alt="Fullstack Developer" />
 </div>
 
 <br />
