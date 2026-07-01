@@ -10,13 +10,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/SENIOR-DEVELOPER-FF174D?style=for-the-badge" alt="Senior Developer" />
-  <img src="https://img.shields.io/badge/FULLSTACK-UNIVERSAL-6C63FF?style=for-the-badge" alt="Fullstack Developer" />
   <img src="https://komarev.com/ghpvc/?username=onlyv1be&color=FF174D&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/FULLSTACK-UNIVERSAL-6C63FF?style=for-the-badge" alt="Fullstack Developer" />
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,12,20&height=180&section=header&text=SENIOR%20DEVELOPER&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Strong%20Senior%20Universal%20Fullstack%20Developer&descAlignY=60&descSize=18" alt="Senior Developer" />
 
 <br />
 
