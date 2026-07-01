@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=64&duration=2200&pause=900&color=FF174D&center=true&vCenter=true&width=1200&height=100&lines=I+AM+THE+CODE;I+AM+ONLYV1BE;SENIOR+DEVELOPER" alt="Typing SVG" />
 </h1>
 
----
 
 <p align="center">
   <img width="800" src="assets/github-snake.svg" alt="snake animation" />
